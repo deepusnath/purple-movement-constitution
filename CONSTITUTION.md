@@ -38,6 +38,8 @@ The movement is a federation of connected but independent works, not a single or
 | **Beyond Borders** | Turns frontier technology into problems worth building, then equips the builders with a global network and support system, so they can dream beyond borders and live up to their true potential |
 | **Beyond Gatekeepers** | The Evolve network: monthly, free, practitioner-led communities of practice that incubate and graduate into self-governance |
 
+| **Techmyrmidons** | The mastery layer: domain tool radars the Evolve communities maintain, so anyone can know the tools the best builders use, where they stand, and their next step |
+
 Allied, independent works include the μLearn Foundation's peer-learning ecosystem, a living prototype whose evidence and whose limitations both inform this movement, and the AI+Compassion philosophy: *intelligence without compassion is dangerous; compassion without intelligence is powerless; the future needs both.*
 
 ## The participant journey

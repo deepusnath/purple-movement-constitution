@@ -15,6 +15,7 @@ This repository holds the movement's founding documents:
 | [Beyond Borders](https://github.com/The-Purple-Movement/Beyond-Borders) | What to build, and the global network that backs you once you build it |
 | [Beyond Gatekeepers](https://github.com/deepusnath/Beyond-Gatekeepers) | The Evolve network of communities of practice |
 | [WikiSyllabus](https://github.com/The-Purple-Movement/WikiSyllabus) | The open data layer of university syllabi |
+| [Techmyrmidons](https://github.com/deepusnath/techmyrmidons-web) | Domain tool radars: know the tools, know where you stand |
 
 Allied works: [μLearn](https://mulearn.org/) · [AI+Compassion](https://compassionai.io/)
 
