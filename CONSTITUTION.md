@@ -35,7 +35,7 @@ The movement is a federation of connected but independent works, not a single or
 | Pillar | What it does |
 |---|---|
 | **Beyond Syllabus** | Treats the syllabus as a starting point, not a cage: open tools for deep understanding and better questions |
-| **Beyond Borders** | Maps frontier technology to real problems worth building, anywhere |
+| **Beyond Borders** | Turns frontier technology into problems worth building, then equips the builders with a global network and support system, so they can dream beyond borders and live up to their true potential |
 | **Beyond Gatekeepers** | The Evolve network: monthly, free, practitioner-led communities of practice that incubate and graduate into self-governance |
 
 Allied, independent works include the μLearn Foundation's peer-learning ecosystem, a living prototype whose evidence and whose limitations both inform this movement, and the AI+Compassion philosophy: *intelligence without compassion is dangerous; compassion without intelligence is powerless; the future needs both.*

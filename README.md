@@ -12,7 +12,7 @@ This repository holds the movement's founding documents:
 | Project | Role |
 |---|---|
 | [Beyond Syllabus](https://github.com/The-Purple-Movement/Beyond-Syllabus) | The syllabus as a starting point, not a cage |
-| [Beyond Borders](https://github.com/The-Purple-Movement/Beyond-Borders) | Frontier technology mapped to problems worth building |
+| [Beyond Borders](https://github.com/The-Purple-Movement/Beyond-Borders) | What to build, and the global network that backs you once you build it |
 | [Beyond Gatekeepers](https://github.com/deepusnath/Beyond-Gatekeepers) | The Evolve network of communities of practice |
 | [WikiSyllabus](https://github.com/The-Purple-Movement/WikiSyllabus) | The open data layer of university syllabi |
 
