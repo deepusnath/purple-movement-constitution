@@ -5,7 +5,8 @@
 This repository holds the movement's founding documents:
 
 - **[CONSTITUTION.md](./CONSTITUTION.md)**: purpose, promise, principles, federation, and the three community rules
-- Amendments happen by open pull request, stewarded by the network council
+- **[COUNCIL.md](./COUNCIL.md)**: the network council that stewards it
+- Amendments happen by open pull request, stewarded by the council
 
 ## The federation
 
